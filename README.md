@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="readme_pictures/Pasted%20image.png" alt="Project Screenshot" width="600">
+   <img src="readme_pictures/image.png" alt="Project Screenshot" width="600">
 </p>
 
 ### Project Overview
