@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Medeiroshenrique/ClientResourceManager/main/readme_pictures/image.png" alt="Project Screenshot" width="600">
+   <img src="readme_pictures/image.png" alt="Project Screenshot" width="600">
 </p>
 
 ### Project Overview
